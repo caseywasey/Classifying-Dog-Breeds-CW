@@ -14,4 +14,10 @@
     + Installation & Prerequisites
       + Python Version 3.0
         + https://www.python.org/downloads/windows/
-      
+      + Jupyter Notebooks
+        + https://duckduckgo.com/l/?kh=-1&uddg=https%3A%2F%2Fjupyter.org%2F
+  
+  + Included files:
+    + *Classifying_Dog_Breeds.ipynb* : Jupyter notebook for the project
+    + *Classifying_Dog_Breeds.py* : Python code for the project
+    + *Classifying_Dog_breeds_CW.html* : HTML report for the project

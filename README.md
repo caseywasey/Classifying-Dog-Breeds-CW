@@ -1,4 +1,4 @@
-# Classifying-Dog-Breeds-CW
+# Classifying-Dog-Breeds-CW-README
 
 ## Contents
 
